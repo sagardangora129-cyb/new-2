@@ -1,2 +1,4 @@
 hello 
 print hello world 
+
+python is esey command 
