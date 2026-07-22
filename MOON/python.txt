@@ -2,3 +2,5 @@ hello
 print hello world 
 
 python is esey command 
+hi is normal command 
+this is use the command 
