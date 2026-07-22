@@ -1,2 +1,4 @@
 hello 
 print hello world 
+hi is normal command 
+this is use the command 
